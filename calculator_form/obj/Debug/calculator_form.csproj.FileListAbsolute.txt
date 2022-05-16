@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\calculator_form\calculator_form\bin\Debug\calculator_form.exe.config
+C:\Users\HP\source\repos\calculator_form\calculator_form\bin\Debug\calculator_form.exe
+C:\Users\HP\source\repos\calculator_form\calculator_form\bin\Debug\calculator_form.pdb
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.Form1.resources
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.Properties.Resources.resources
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.exe
+C:\Users\HP\source\repos\calculator_form\calculator_form\obj\Debug\calculator_form.pdb
